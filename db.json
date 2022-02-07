@@ -1,0 +1,222 @@
+{
+  "user": [
+    {
+      "id": "1642755892829",
+      "isUser": "true",
+      "username": "Kenil",
+      "email": "kenil@gmail.com",
+      "phone": "8469364787",
+      "password": "123456"
+    },
+    {
+      "id": "1642755979225",
+      "isUser": "false",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "phone": "8469364787",
+      "password": "123456789"
+    },
+    {
+      "id": "1643020733099",
+      "isUser": "true",
+      "username": "Harsh",
+      "email": "harsh@gmail.com",
+      "phone": "5461151715",
+      "password": "vadil"
+    },
+    {
+      "id": "1643090201760",
+      "isUser": "true",
+      "username": "SAGAR",
+      "email": "sagar1@gmail.com",
+      "phone": "12345562451",
+      "password": "sagar1"
+    }
+  ],
+  "info": [
+    {
+      "userId": "1643020733099",
+      "userName": "harsh",
+      "title": "react loading isuuue",
+      "describe": "loading isuuue",
+      "status": "notsolved",
+      "time": "1:33:49",
+      "id": 1
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": "Root event delegation causes accessibiliy issue",
+      "describe": "NVDA reads clickable due to event delegation performed at the root level.",
+      "status": "inreview",
+      "time": "6:22:49",
+      "id": 2
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": "event delegation causes accessibiliy issue",
+      "describe": "NVDA reads clickable due to event delegation performed at the root level.",
+      "status": "notsolved",
+      "time": "10:10:49",
+      "id": 3
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": " delegation causes accessibiliy issue",
+      "describe": "NVDA reads clickable due to event delegation performed at the root level.",
+      "status": "inreview",
+      "time": "6:20:20",
+      "id": 4
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": " accessibiliy issue",
+      "describe": "reads clickable due to event delegation performed at the root level.",
+      "status": "solved",
+      "time": "1:30:40",
+      "id": 5
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": "causes accessibiliy issue",
+      "describe": "clickable due to event delegation performed at the root level.",
+      "status": "inreview",
+      "time": "4:20:30",
+      "id": 6
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": " Suspense unable to track when a promise completes causing SWR",
+      "describe": "When working with SWR with React 17, you could pass to useSwr on onSuccess parameter which would assign a completion function so that when an async call finished, you could take some action (for example, when not using Relay, you can trigger another component to begin loading data based on the returned data from useSwr.",
+      "status": "solved",
+      "time": "2:33:19",
+      "id": 7
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "kenil",
+      "title": "textarea: set maxLength & controled value, when input Chinese an blur, do not trigger event ",
+      "describe": "onChange",
+      "status": "notsolved",
+      "time": "7:33:15",
+      "id": 8
+    },
+    {
+      "userId": "1643020733099",
+      "userName": "harsh",
+      "title": " input type month and VoiceOver",
+      "describe": " https://codesandbox.io/s/react-month-input-bug-vanilla-dcg6d?file=/index.html\n\n\n\nplz visit this........",
+      "status": "inreview",
+      "time": "5:36:50",
+      "id": 9
+    },
+    {
+      "userId": "1643020733099",
+      "userName": "harsh",
+      "title": "Styled-components are unstyled using React ",
+      "describe": "Create a styled component like this one :\nexport const TestButton = styled.button`\n  background: red;\n  ${props => props.primary && css`\n    color: blue;\n  `}\n`\nBuild it with ES / UMD (using viteJS or rollup). The compiled version looks like this:\nconst en=Qr.button.withConfig({displayName:\"TestButton\",componentId:\"sc-levoo9-0\"})((({variant:e=\"primary\"})=>[{\"--tw-bg-opacity\":\"1\",backgroundColor:\"rgba(239, 68, 68, var(--tw-bg-opacity))\"},e===\"primary\"&&{\"--tw-text-opacity\":\"1\",color:\"rgba(59, 130, 246, var(--tw-text-opacity))\"}]));export{en as TestButton};\nAdd it to your application using yarn : yarn workspace react-server-components-app add @test/ui\nImport the component in your App : <TestButton>Yo !</TestButton>\nLaunch your application => Impossible to compile",
+      "status": "solved",
+      "time": "16:33:49",
+      "id": 10
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "title": "reaload isuuue",
+      "describe": "page not able to reload using useeffect",
+      "status": "notsolved",
+      "time": "8:10:49",
+      "id": 11
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "title": "login errorrr",
+      "describe": "<p><strong>when i referesh data goes to empty state….</strong></p><p>provide me valid solution…</p>",
+      "status": "notsolved",
+      "time": "16:45:7",
+      "id": 12
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "title": "dfsd",
+      "describe": "<p>wsfafafaf</p>",
+      "status": "solved",
+      "time": "17:24:14",
+      "id": 13
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "image": {},
+      "title": "dgsgsd",
+      "describe": "<p>sdgsdgsdg</p>",
+      "status": "solved",
+      "time": "10:50:14",
+      "id": 14
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "image": "",
+      "title": "dfsfs",
+      "describe": "<p>dsfasf</p>",
+      "status": "solved",
+      "time": "11:30:53",
+      "id": 15
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "image": "",
+      "title": "safasf",
+      "describe": "<p>asfasfa</p>",
+      "status": "inreview",
+      "time": "11:41:45",
+      "id": 16
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "title": "safafasfa",
+      "describe": "<p>sdfasfa</p>",
+      "status": "notsolved",
+      "time": "11:43:6",
+      "id": 17
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "title": "safafas",
+      "describe": "<p>fasfasfa</p>",
+      "status": "inreview",
+      "time": "11:48:20",
+      "id": 18
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "title": "sfasfaasfa",
+      "describe": "<p>asfasf</p>",
+      "status": "inreview",
+      "image": {},
+      "id": 19
+    },
+    {
+      "userId": "1642755892829",
+      "userName": "Kenil",
+      "image": [],
+      "title": "fdhxh",
+      "describe": "<p>fhdhdh</p>",
+      "status": "solved",
+      "time": "12:25:20",
+      "id": 20
+    }
+  ]
+}
